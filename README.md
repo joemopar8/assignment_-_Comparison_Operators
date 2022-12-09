@@ -1,1 +1,1 @@
-# JS Assignment & Comparison Operators
+# JS Assignment & Comparison Operators Tutorial
